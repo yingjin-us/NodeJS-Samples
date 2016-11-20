@@ -1,8 +1,8 @@
 {
-    "name": "HelloWorld",
+    "name": "Client-Server",
     "version": "0.0.0",
-    "description": "Hello world in HTTP",
-    "main": "app.js",
+    "description": "Client server with net library",
+    "main": "server.js",
     "author": {
       "name": "Ying",
       "email": ""
